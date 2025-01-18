@@ -58,19 +58,12 @@ To run this project, ensure you have the following installed:
    npm install
    ```
 
-4. Create a `.env` file in the root directory and configure the following:
-   ```env
-   PORT=3000
-   MONGO_URI=your-mongodb-connection-string
-   JWT_SECRET=your-secret-key
-   ```
-
-5. Start the development server:
+4. Start the development server:
    ```bash
    npm start
    ```
 
-6. Open the application in your browser:
+5. Open the application in your browser:
    ```
    http://localhost:3000
    ```
@@ -119,4 +112,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Author
 
-Developed by [Your Name](https://github.com/your-username). Feel free to reach out for any queries!
+Developed by Kaloyan Yordano(https://github.com/Kalo116). Feel free to reach out for any queries!
